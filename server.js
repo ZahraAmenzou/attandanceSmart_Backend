@@ -14,8 +14,8 @@ a/* pp.use(
 
 const allowedOrigins = [
   'http://localhost:5173',
-  'https://attendancesmart.vercel.app/',
-  'https://attandance-smart-backend.vercel.app/'
+  'https://attendancesmart.vercel.app',
+  'https://attandance-smart-backend.vercel.app'
 ];
 
 app.use(cors({
